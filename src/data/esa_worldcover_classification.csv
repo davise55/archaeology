@@ -1,12 +1,12 @@
-﻿lucode,desc
-0,Background
-10,Forest
-20,Shrubland
-30,Grassland
-40,Cropland
-50,Urban
-60,Barren
-70,Snow
-80,Water
-90,Wetland
-100,Moss and Lichens
+﻿lucode,desc,cost_value
+0,Background,0
+10,Forest,0.7
+20,Shrubland,0.5
+30,Grassland,0.2
+40,Cropland,0.2
+50,Urban,0.2
+60,Barren,0.8
+70,Snow,0
+80,Water,1
+90,Wetland,1
+100,Moss and Lichens,0
