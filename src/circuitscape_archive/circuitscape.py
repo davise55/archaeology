@@ -323,7 +323,7 @@ def _process_circuitscape_outputs(
         m.write(mosaic)
 
 
-def circuitscape(
+def execute(
     cost_surface_raster: pathlike,
     seed_ini: pathlike,
     workspace_path: pathlike,
