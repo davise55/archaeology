@@ -1,5 +1,5 @@
-﻿lucode,desc,cost_value
-0,Background,0
+﻿lucode,desc,cost_value,height
+0,Background,0,0
 10,Forest,0.7
 20,Shrubland,0.5
 30,Grassland,0.2
